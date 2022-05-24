@@ -13,7 +13,13 @@ int main ()
 
 }
 
+<<<<<<< Updated upstream
 int getDate ()
 {
   return 0;
 }
+=======
+int hello(){
+  return 5;
+}
+>>>>>>> Stashed changes
