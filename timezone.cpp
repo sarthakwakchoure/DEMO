@@ -20,3 +20,9 @@ int getDate ()
 int hello(){
   return 5;
 }
+
+
+int getDate_v2 ()
+{
+  return 0;
+}
