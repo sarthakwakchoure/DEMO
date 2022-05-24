@@ -12,3 +12,8 @@ int main ()
   std::cout << "just the offset: " << std::put_time(std::localtime(&tm), "%z\n");
 
 }
+
+int getDate ()
+{
+  return 0;
+}
